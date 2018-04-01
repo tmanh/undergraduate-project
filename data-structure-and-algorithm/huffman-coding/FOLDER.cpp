@@ -3,7 +3,7 @@ Truong Minh Anh - 1112010
 truongminhanh93.it@gmail.com
 */
 
-#include "FOLDER.h"
+#include "folder.h"
 
 FOLDER::~FOLDER(){
 	if(n!=0){

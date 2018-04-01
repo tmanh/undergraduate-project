@@ -5,7 +5,7 @@ truongminhanh93.it@gmail.com
 
 #pragma once
 
-#include "CONTAINER.h"
+#include "container.h"
 
 class MYFILE : public CONTAINER
 {
@@ -19,4 +19,3 @@ public:
 	void output();			//xuat file
 	void updateSize();		//cap nhat kich thuoc file
 };
-

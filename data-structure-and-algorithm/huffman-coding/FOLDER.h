@@ -6,8 +6,8 @@ truongminhanh93.it@gmail.com
 #pragma once
 
 #include <vector>
-#include "CONTAINER.h"
-#include "FILE.h"
+#include "container.h"
+#include "file.h"
 
 class FOLDER : public CONTAINER
 {
@@ -29,4 +29,3 @@ public:
 	int getsize(int index);		//lay kich thuoc
 	int getnFile();				//lay so luong file co trong folder
 };
-

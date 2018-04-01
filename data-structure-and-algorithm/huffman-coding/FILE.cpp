@@ -3,7 +3,7 @@ Truong Minh Anh - 1112010
 truongminhanh93.it@gmail.com
 */
 
-#include "FILE.h"
+#include "file.h"
 
 
 int MYFILE::getsize(){

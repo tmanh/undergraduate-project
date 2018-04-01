@@ -7,7 +7,7 @@ truongminhanh93.it@gmail.com
 
 #include <iostream>
 #include <fstream>
-#include <windows.h> // this is for Windows
+// #include <windows.h> // this is for Windows
 #include <string>
 #include <cstdlib>
 using namespace std;
