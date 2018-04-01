@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\bin\Debug\1112010_FOL.exe
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\bin\Debug\1112010_FOL.pdb
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\obj\x86\Debug\_1112010_FOL.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\obj\x86\Debug\_1112010_FOL.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\obj\x86\Debug\1112010_FOL.exe
+c:\users\dell\documents\visual studio 2010\Projects\1112010_FOL\1112010_FOL\obj\x86\Debug\1112010_FOL.pdb
